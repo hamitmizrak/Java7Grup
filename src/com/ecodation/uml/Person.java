@@ -5,6 +5,7 @@ public class Person {
 	private long id;
 	private String adi;
 	private String soyad;
+
 	public String adres;
 	public static String memleket;
 
