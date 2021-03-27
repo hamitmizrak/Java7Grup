@@ -6,6 +6,7 @@ public class MainTest {
 
 		RegisterDao registerDao = new RegisterDao();
 		registerDao.allResult();
+
 	}
 
 }
