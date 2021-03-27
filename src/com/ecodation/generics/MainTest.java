@@ -9,7 +9,7 @@ public class MainTest {
 
 		System.out.println(generic.getId() + " " + generic.getAdi() + " " + generic.getAdres() + " ");
 
-		generic.tamAd("Java");
+		generic.tamAd("Java ");
 		generic.tamAd("Java", '\u4455');
 
 	}
